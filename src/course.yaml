@@ -18,26 +18,27 @@ topics:
       requirements of the organization. Some common methods include:
 
 
-      1. Cold storage: This involves storing the crypto offline, on a hardware
-      wallet or paper wallet, to protect it from hacking and other online
-      threats.
+      1. **Cold storage**: This involves storing the crypto offline, on a
+      hardware wallet or paper wallet, to protect it from hacking and other
+      online threats.
 
 
-      2. Multi-sig wallets: This involves using multiple keys to access the
+      2. **Multi-sig wallets**: This involves using multiple keys to access the
       crypto, with each key held by a different person or department, to
       increase security and control.
 
 
-      3. Custodial services: This involves using a third-party service provider
-      to securely store and manage the crypto on behalf of the enterprise.
+      3. **Custodial services**: This involves using a third-party service
+      provider to securely store and manage the crypto on behalf of the
+      enterprise.
 
 
-      4. Hardware Security Modules: This is a specialized, tamper-resistant
+      4. **Hardware Security Modules**: This is a specialized, tamper-resistant
       hardware that stores the cryptographic keys used to access the crypto.
 
 
-      5. A multiparty computation (MPC) wallet: This technology enables multiple
-      parties to jointly perform computations on sensitive data without
+      5. **A multiparty computation (MPC) wallet**: This technology enables
+      multiple parties to jointly perform computations on sensitive data without
       revealing it to any of the parties involved.
 
 
