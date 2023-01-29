@@ -9,7 +9,9 @@
   ],
   "publishStatus": "Live",
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/enterprise_crypto_custody.png",
-  "courseAdmins": [],
+  "courseAdmins": [
+    "0x003b5be2ffc0a5502d91567ae2e75ad9f2c11259"
+  ],
   "coursePassContent": "Pass content of Course !!!!!!!!!!",
   "topics": [
     {
@@ -38,5 +40,9 @@
       "summaries": [],
       "questions": []
     }
-  ]
+  ],
+  "topicConfig": {
+    "showExplanations": false,
+    "showHints": false
+  }
 }
