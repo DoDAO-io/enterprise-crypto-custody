@@ -1,0 +1,8 @@
+- key: multi-layer-security-solution
+  title: Multi-Layer Security Solution
+  shortTitle: Security Solution
+  details: >
+    Fireblocks has a multi-layer security system that includes MPC, Intel SGX, a
+    Policy Engine, and a deposit address authentication network. This ensures
+    that users’ assets are protected from cyberattacks, internal collusion, and
+    human error.

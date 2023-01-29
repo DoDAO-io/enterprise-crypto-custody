@@ -26,7 +26,14 @@
       "key": "fireblocks",
       "title": "Fireblocks",
       "details": "Fireblocks is the digital asset storage, transfer, and issuance platform you can trust. With pioneering multi-layer security, financial institutions can easily enter the digital asset space and scale their services with speed and confidence. Fireblocks offers enterprise-grade wallet security, the industry’s only institutional digital asset transfer network, and a configurable governance framework to set risk and operational controls. Plus, they directly connect to major exchanges, OTC desks, and liquidity providers - so you can always get the best asset prices.\n",
-      "explanations": [],
+      "explanations": [
+        {
+          "key": "multi-layer-security-solution",
+          "shortTitle": "Security Solution",
+          "details": "Fireblocks has a multi-layer security system that includes MPC, Intel SGX, a Policy Engine, and a deposit address authentication network. This ensures that users’ assets are protected from cyberattacks, internal collusion, and human error.\n",
+          "title": "Multi-Layer Security Solution"
+        }
+      ],
       "readings": [],
       "summaries": [],
       "questions": []
