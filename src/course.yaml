@@ -44,5 +44,17 @@ topics:
 
       In this course we will look at various ways enterprises can store their
       crypto and some of the most important requirements that enterprises have.
+  - key: fireblocks
+    title: Fireblocks
+    details: >
+      Fireblocks is the digital asset storage, transfer, and issuance platform
+      you can trust. With pioneering multi-layer security, financial
+      institutions can easily enter the digital asset space and scale their
+      services with speed and confidence. Fireblocks offers enterprise-grade
+      wallet security, the industry’s only institutional digital asset transfer
+      network, and a configurable governance framework to set risk and
+      operational controls. Plus, they directly connect to major exchanges, OTC
+      desks, and liquidity providers - so you can always get the best asset
+      prices.
 courseAdmins: []
 coursePassContent: Pass content of Course !!!!!!!!!!
