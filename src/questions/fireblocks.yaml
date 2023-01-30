@@ -110,3 +110,24 @@
       key: cfef7bd8
     - content: Wallets are custodian
       key: 812f4fd3
+- uuid: e9c501f3-02cd-4720-938f-bb7c130b3b75
+  type: MultipleChoice
+  content: 'How does Intel SGX provide security in Fireblock’s MPC wallet? '
+  hint: NoHint
+  explanation: >-
+    Intel SGX provides hardware isolation for private keys. It also protects API
+    from hackers.
+  answerKeys:
+    - 1916e35f
+    - ef7300cb
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: SGX protects crypto from online thefts
+      key: A
+    - content: Protects API from hackers
+      key: 1916e35f
+    - content: 'Used as a policy engine '
+      key: dc142aae
+    - content: Provides hardware isolation to private keys
+      key: ef7300cb
