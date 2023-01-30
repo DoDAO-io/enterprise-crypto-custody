@@ -62,40 +62,7 @@
       ],
       "readings": [],
       "summaries": [],
-      "questions": [
-        {
-          "uuid": "a700556e-90f1-4405-a0ff-5f22b4e46b28",
-          "type": "MultipleChoice",
-          "content": "Why is a Multi-Layer Security Solution needed for crypto custody?",
-          "hint": "NoHint",
-          "explanation": "A multi-layer solution enables higher security for cryptocurrency. Multiple layers of security ensure safety from hackers and thefts. ",
-          "answerKeys": [
-            "A",
-            "64cf3d60",
-            "eb277791"
-          ],
-          "subTopics": [],
-          "difficultyLevel": "Medium",
-          "choices": [
-            {
-              "content": "Multiple defensive mechanisms in place to protect data",
-              "key": "A"
-            },
-            {
-              "content": "Makes transactions easier",
-              "key": "42ef55cc"
-            },
-            {
-              "content": "Protects crypto from offline and online threats",
-              "key": "64cf3d60"
-            },
-            {
-              "content": "Enables safer custody for cryptocurrency",
-              "key": "eb277791"
-            }
-          ]
-        }
-      ]
+      "questions": []
     }
   ],
   "topicConfig": {
