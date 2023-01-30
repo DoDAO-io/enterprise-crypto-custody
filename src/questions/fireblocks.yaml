@@ -88,3 +88,25 @@
       key: e126f6b3
     - content: Permits both hot and cold signing mechanisms
       key: f8a4f6e2
+- uuid: bf8b9f53-5caf-421b-9206-3b9e1bf2fd6d
+  type: MultipleChoice
+  content: |
+    How do Fireblocks handle private keys?
+  hint: NoHint
+  explanation: >-
+    MPC-CMP distributes private keys across multiple servers. Hardware isolation
+    is provided for each key using SGX.
+  answerKeys:
+    - 3116d1df
+    - cfef7bd8
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Creates a single private key
+      key: A
+    - content: 'Distributes private keys across multiple servers '
+      key: 3116d1df
+    - content: Hardware isolation is provided for each key
+      key: cfef7bd8
+    - content: Wallets are custodian
+      key: 812f4fd3
