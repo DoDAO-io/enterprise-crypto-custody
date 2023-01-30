@@ -46,6 +46,12 @@
           "shortTitle": "Layer-2",
           "details": "Intel SGX is a hardware-level security feature that creates an isolated area within a system, similar to an HSM (hardware security module) from the operating system. Its purpose is to protect cryptographic material, algorithms, and the execution of sensitive code from insiders (such as rogue administrators) and hackers. SGX enclaves are a great way to distribute private keys with a very high level of security. By using them on a minimum of 3-5 machines, each on a separate network, you can be sure that your keys will be safe. The keys are kept in SGX, so even if malware or a hacker gains access to the server's operating system, they cannot be removed because the memory and the data in the SGX enclave are encrypted. SGX is used to store API keys in order to keep them secure from potential hackers. Exchange credentials are stored in TEEs, or Trusted Execution Environments so that not even Fireblocks employees can retrieve the information.\n",
           "title": "Layer-2: SGX (Software Guard Extension)"
+        },
+        {
+          "key": "layer-3-policy-engine",
+          "shortTitle": "Layer-3",
+          "details": "The Fireblocks Policy Engine is the next step for digital asset security, allowing organizations to set up specific approval policies for every transaction. With the Policy Engine, users can configure a list of rules that determine how transactions are handled and approved. For example, a rule can block, approve, or require additional signers for a transaction based on filters such as source, destination, asset, and amount. Fireblocks has implemented SGX security measures in order to protect the Policy Engine. This involves distributing policy verification among several MPC servers. In addition, the policy rules are signed by a quorum of administrators and encrypted within SGX. By taking these measures, Fireblocks prevents both hackers and insiders (such as IT administrators) from modifying the implemented rules or the logic of the policy engine.\n",
+          "title": "Layer-3: Policy Engine"
         }
       ],
       "readings": [],

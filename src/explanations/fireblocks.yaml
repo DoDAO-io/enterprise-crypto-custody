@@ -59,3 +59,19 @@
     credentials are stored in TEEs, or Trusted Execution Environments so that
     not even Fireblocks employees can retrieve the information.
   title: 'Layer-2: SGX (Software Guard Extension)'
+- key: layer-3-policy-engine
+  shortTitle: Layer-3
+  details: >
+    The Fireblocks Policy Engine is the next step for digital asset security,
+    allowing organizations to set up specific approval policies for every
+    transaction. With the Policy Engine, users can configure a list of rules
+    that determine how transactions are handled and approved. For example, a
+    rule can block, approve, or require additional signers for a transaction
+    based on filters such as source, destination, asset, and amount. Fireblocks
+    has implemented SGX security measures in order to protect the Policy Engine.
+    This involves distributing policy verification among several MPC servers. In
+    addition, the policy rules are signed by a quorum of administrators and
+    encrypted within SGX. By taking these measures, Fireblocks prevents both
+    hackers and insiders (such as IT administrators) from modifying the
+    implemented rules or the logic of the policy engine.
+  title: 'Layer-3: Policy Engine'
