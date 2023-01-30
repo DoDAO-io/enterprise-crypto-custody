@@ -250,6 +250,37 @@
               "key": "56decbe2"
             }
           ]
+        },
+        {
+          "uuid": "5f65a2bb-8b11-4434-bc4e-0419609b3b76",
+          "type": "MultipleChoice",
+          "content": "What is the use of a policy engine in Fireblock’s wallet?",
+          "hint": "NoHint",
+          "explanation": "Policy engine is used to dictate how transactions would be carried out.",
+          "answerKeys": [
+            "6f722673",
+            "8455bbeb"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Makes policies on how to store private key",
+              "key": "A"
+            },
+            {
+              "content": "Improves transaction efficiency of the wallet",
+              "key": "2f852200"
+            },
+            {
+              "content": "Used to make policies on how to approve transactions",
+              "key": "6f722673"
+            },
+            {
+              "content": "Provides an extra layer of security to the wallet",
+              "key": "8455bbeb"
+            }
+          ]
         }
       ]
     }
