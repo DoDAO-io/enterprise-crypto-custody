@@ -62,7 +62,26 @@
       ],
       "readings": [],
       "summaries": [],
-      "questions": []
+      "questions": [
+        {
+          "uuid": "4777acbe-40cf-4b8a-95e4-38c68a351f3e",
+          "type": "MultipleChoice",
+          "content": "nk",
+          "hint": "NoHint",
+          "explanation": "kjb",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": " kj ",
+              "key": "A"
+            }
+          ]
+        }
+      ]
     }
   ],
   "topicConfig": {
