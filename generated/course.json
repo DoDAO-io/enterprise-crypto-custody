@@ -312,6 +312,38 @@
               "key": "72592c2b"
             }
           ]
+        },
+        {
+          "uuid": "864cd840-3437-4ba1-b525-ef3c6dd3b653",
+          "type": "MultipleChoice",
+          "content": "How are all the layers connected in a Fireblock wallet?",
+          "hint": "NoHint",
+          "explanation": "MPC distributes the private key among various parties. Hardware isolation is provided to the private keys using Intel SGX. The policy engine makes policy on how transactions would be carried out.",
+          "answerKeys": [
+            "b71988ce",
+            "36bd16a0",
+            "fd0c58d8"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Private key is not accessible to the user",
+              "key": "A"
+            },
+            {
+              "content": "MPC wallets distribute private keys across multiple servers",
+              "key": "b71988ce"
+            },
+            {
+              "content": "SGX provides hardware isolation to the private keys",
+              "key": "36bd16a0"
+            },
+            {
+              "content": "Policies engine dictates how transactions would be approved",
+              "key": "fd0c58d8"
+            }
+          ]
         }
       ]
     }
