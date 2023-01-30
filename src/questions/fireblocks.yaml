@@ -42,3 +42,25 @@
       content: Protects crypto from offline and online threats
     - key: 454a6cc9
       content: Enables safer custody for cryptocurrency
+- uuid: 799edb01-1b48-416e-b3a3-1093f875ae44
+  type: MultipleChoice
+  content: |
+    What makes Fireblock wallets different from other MPC wallets?
+  hint: NoHint
+  explanation: >-
+    A Fireblock wallet provides hardware isolation in form of Intel SGX. MPC-CMP
+    wallet is also faster and more secure as compared to the general MPC wallet.
+  answerKeys:
+    - '45248524'
+    - 58c5bd5c
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Operates using multi-sig wallet
+      key: A
+    - content: Provides hardware isolation of private keys
+      key: '45248524'
+    - content: MPC-CMP used in FIreblock wallet is faster and more secure
+      key: 58c5bd5c
+    - content: Wallets are implemented using smart contracts
+      key: d91a37e8
