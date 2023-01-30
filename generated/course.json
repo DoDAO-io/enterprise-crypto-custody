@@ -281,6 +281,37 @@
               "key": "8455bbeb"
             }
           ]
+        },
+        {
+          "uuid": "924ecbe3-993b-4d9c-ae5a-37e30864d1e9",
+          "type": "MultipleChoice",
+          "content": "How does the policy engine make crypto custody more secure?",
+          "hint": "NoHint",
+          "explanation": "Policy engine provides an extra layer of security by governing how transactions would be carried out.",
+          "answerKeys": [
+            "A",
+            "72592c2b"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Provides rules on how transactions are handled",
+              "key": "A"
+            },
+            {
+              "content": "Provides hardware isolation to the wallet",
+              "key": "1b919b4d"
+            },
+            {
+              "content": "Ensures the security of private keys",
+              "key": "1743620a"
+            },
+            {
+              "content": "Provides an extra layer of security to the wallet",
+              "key": "72592c2b"
+            }
+          ]
         }
       ]
     }
