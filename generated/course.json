@@ -125,6 +125,38 @@
               "key": "d91a37e8"
             }
           ]
+        },
+        {
+          "uuid": "a96faa22-85ac-48bb-8fe6-c0bc6b19d21d",
+          "type": "MultipleChoice",
+          "content": "How is MPC-CMP different from a general MPC wallet?\n",
+          "hint": "NoHint",
+          "explanation": "MPC-CMP is faster and more secure than a general MPC wallet. It provides hardware isolation. Furthermore, it permits both hot and cold signing mechanisms.",
+          "answerKeys": [
+            "46e5ebc8",
+            "e126f6b3",
+            "f8a4f6e2"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "It does not eliminate single point of compromise",
+              "key": "A"
+            },
+            {
+              "content": "It is faster and more secure than a general MPC wallet",
+              "key": "46e5ebc8"
+            },
+            {
+              "content": "Provides hardware isolation",
+              "key": "e126f6b3"
+            },
+            {
+              "content": "Permits both hot and cold signing mechanisms",
+              "key": "f8a4f6e2"
+            }
+          ]
         }
       ]
     }
