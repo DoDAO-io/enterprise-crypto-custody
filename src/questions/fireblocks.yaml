@@ -22,13 +22,23 @@
       key: eb277791
 - uuid: 4777acbe-40cf-4b8a-95e4-38c68a351f3e
   type: MultipleChoice
-  content: nk
+  content: Why is a Multi-Layer Security Solution needed for crypto custody?
   hint: NoHint
-  explanation: kjb
+  explanation: >-
+    A multi-layer solution ensures higher safety and provides layers of
+    protection against hackers. 
   answerKeys:
     - A
+    - 9437193d
+    - 454a6cc9
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: ' kj '
-      key: A
+    - key: A
+      content: ' Multiple defensive mechanisms in place to protect data'
+    - key: ff3ee78a
+      content: Makes transactions easier
+    - key: 9437193d
+      content: Protects crypto from offline and online threats
+    - key: 454a6cc9
+      content: Enables safer custody for cryptocurrency
