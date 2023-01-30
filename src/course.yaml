@@ -57,6 +57,7 @@ topics:
       desks, and liquidity providers - so you can always get the best asset
       prices.
     explanations: fireblocks.yaml
+    questions: fireblocks.yaml
 courseAdmins:
   - '0x003b5be2ffc0a5502d91567ae2e75ad9f2c11259'
 coursePassContent: Pass content of Course !!!!!!!!!!
