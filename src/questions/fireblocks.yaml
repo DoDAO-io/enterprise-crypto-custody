@@ -131,3 +131,22 @@
       key: dc142aae
     - content: Provides hardware isolation to private keys
       key: ef7300cb
+- uuid: a56e141a-0a83-43ae-a657-b8e6b63c3b20
+  type: MultipleChoice
+  content: How does a hardware wallet make crypto custody more secure?
+  hint: NoHint
+  explanation: Hardware isolation provides an extra layer of security.
+  answerKeys:
+    - A
+    - 18c025a5
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: For optimal security, private keys are completely offline
+      key: A
+    - content: Signing transactions is easier
+      key: db1af259
+    - content: Optimal for users with a lot of assets to safeguard
+      key: 18c025a5
+    - content: Private keys are not with the user
+      key: 56decbe2
