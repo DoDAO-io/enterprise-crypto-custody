@@ -76,6 +76,7 @@
     implemented rules or the logic of the policy engine.
   title: 'Layer-3: Policy Engine'
 - key: working-of-the-different-layers
+  title: Working Of the Different Layers
   shortTitle: Working
   details: >
     In order to prevent the entire private key from being taken from a single
@@ -90,4 +91,5 @@
     host-based attacks is done to remove human error on deposit addresses. The
     final step involves separating responsibilities across various corporate
     areas and enforcing policies/approval processes.
-  title: Working Of the Different Layers
+
+    ![Working](file:///C:/Users/kkwal/OneDrive/Pictures/Screenshots/Fireblock-image.png)
