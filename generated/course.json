@@ -52,6 +52,12 @@
           "shortTitle": "Layer-3",
           "details": "The Fireblocks Policy Engine is the next step for digital asset security, allowing organizations to set up specific approval policies for every transaction. With the Policy Engine, users can configure a list of rules that determine how transactions are handled and approved. For example, a rule can block, approve, or require additional signers for a transaction based on filters such as source, destination, asset, and amount. Fireblocks has implemented SGX security measures in order to protect the Policy Engine. This involves distributing policy verification among several MPC servers. In addition, the policy rules are signed by a quorum of administrators and encrypted within SGX. By taking these measures, Fireblocks prevents both hackers and insiders (such as IT administrators) from modifying the implemented rules or the logic of the policy engine.\n",
           "title": "Layer-3: Policy Engine"
+        },
+        {
+          "key": "working-of-the-different-layers",
+          "shortTitle": "Working",
+          "details": "In order to prevent the entire private key from being taken from a single device in the event that a hacker or insider penetrates the device, the MPC wallet is used to distribute the private key into shares using a threshold signature across multiple servers or devices. The hardware isolation of each individual key share protects them from being extracted by an attacker, even if they control the machine. This way, no single private key share can be compromised. This is done using Intel SGX. Device distribution across many physical data centers is done to reduce physical attacks. Verification of counterparties' deposit addresses over secure channels that are resistant to host-based attacks is done to remove human error on deposit addresses. The final step involves separating responsibilities across various corporate areas and enforcing policies/approval processes.\n",
+          "title": "Working Of the Different Layers"
         }
       ],
       "readings": [],
