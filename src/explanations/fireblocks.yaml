@@ -78,7 +78,7 @@
 - key: working-of-the-different-layers
   title: Working Of the Different Layers
   shortTitle: Working
-  details: >+
+  details: >
     In order to prevent the entire private key from being taken from a single
     device in the event that a hacker or insider penetrates the device, the MPC
     wallet is used to distribute the private key into shares using a threshold
@@ -92,3 +92,5 @@
     final step involves separating responsibilities across various corporate
     areas and enforcing policies/approval processes.
 
+
+    ![](https://raw.githubusercontent.com/DoDAO-io/enterprise-crypto-custody/main/images/fireblocks/fireblocks.png)
