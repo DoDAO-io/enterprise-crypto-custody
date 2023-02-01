@@ -7,7 +7,8 @@
     that users’ assets are protected from cyberattacks, internal collusion, and
     human error.
 - key: layer-1-mpc-multi-cloud
-  shortTitle: Layer-1
+  title: 'Layer-1: MPC + Multi-Cloud'
+  shortTitle: MPC + Multi-Cloud
   details: >
     The MPC-CMP protocol, created by Fireblocks, applies the idea of MPC wallets
     to ECDSA and EdDSA signatures on blockchains (used by all blockchains).
@@ -41,7 +42,6 @@
     As institutions have entered the ecosystem, new requirements for the digital
     asset area have emerged. MPC-CMP was created to fulfill these requirements
     and is future-proof.
-  title: 'Layer-1: MPC + Multi-Cloud'
 - key: layer-2-sgx-software-guard-extension
   title: 'Layer-2: SGX (Software Guard Extension)'
   shortTitle: Software Guard Ext.
