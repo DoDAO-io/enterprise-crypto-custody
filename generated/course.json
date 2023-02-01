@@ -43,7 +43,7 @@
         },
         {
           "key": "layer-2-sgx-software-guard-extension",
-          "shortTitle": "Layer-2",
+          "shortTitle": "Software Guard Ext.",
           "details": "Intel SGX is a hardware-level security feature that creates an isolated area within a system, similar to an HSM (hardware security module) from the operating system. Its purpose is to protect cryptographic material, algorithms, and the execution of sensitive code from insiders (such as rogue administrators) and hackers. SGX enclaves are a great way to distribute private keys with a very high level of security. By using them on a minimum of 3-5 machines, each on a separate network, you can be sure that your keys will be safe. The keys are kept in SGX, so even if malware or a hacker gains access to the server's operating system, they cannot be removed because the memory and the data in the SGX enclave are encrypted. SGX is used to store API keys in order to keep them secure from potential hackers. Exchange credentials are stored in TEEs, or Trusted Execution Environments so that not even Fireblocks employees can retrieve the information.\n",
           "title": "Layer-2: SGX (Software Guard Extension)"
         },

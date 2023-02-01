@@ -43,7 +43,8 @@
     and is future-proof.
   title: 'Layer-1: MPC + Multi-Cloud'
 - key: layer-2-sgx-software-guard-extension
-  shortTitle: Layer-2
+  title: 'Layer-2: SGX (Software Guard Extension)'
+  shortTitle: Software Guard Ext.
   details: >
     Intel SGX is a hardware-level security feature that creates an isolated area
     within a system, similar to an HSM (hardware security module) from the
@@ -58,7 +59,6 @@
     API keys in order to keep them secure from potential hackers. Exchange
     credentials are stored in TEEs, or Trusted Execution Environments so that
     not even Fireblocks employees can retrieve the information.
-  title: 'Layer-2: SGX (Software Guard Extension)'
 - key: layer-3-policy-engine
   title: 'Layer-3: Policy Engine'
   shortTitle: Policy Engine
