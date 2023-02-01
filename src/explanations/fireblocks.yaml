@@ -61,7 +61,7 @@
   title: 'Layer-2: SGX (Software Guard Extension)'
 - key: layer-3-policy-engine
   title: 'Layer-3: Policy Engine'
-  shortTitle: Layer-3
+  shortTitle: Policy Engine
   details: >
     The Fireblocks Policy Engine is the next step for digital asset security,
     allowing organizations to set up specific approval policies for every
@@ -75,9 +75,6 @@
     encrypted within SGX. By taking these measures, Fireblocks prevents both
     hackers and insiders (such as IT administrators) from modifying the
     implemented rules or the logic of the policy engine.
-
-
-    ![](https://raw.githubusercontent.com/DoDAO-io/enterprise-crypto-custody/main/images/fireblocks/fireblocks.png)
 - key: working-of-the-different-layers
   title: Working Of the Different Layers
   shortTitle: Working
